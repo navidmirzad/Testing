@@ -1,5 +1,4 @@
 # Testing vs. Debugging
-- 
 
 # Static vs. Dynamic Testing
 
